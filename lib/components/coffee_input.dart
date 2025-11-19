@@ -1,15 +1,15 @@
 import 'dart:typed_data';
 
-import 'package:coffee_picker/components/image_box.dart';
-import 'package:coffee_picker/components/scaffold.dart';
-import 'package:coffee_picker/providers/coffees_index.dart';
-import 'package:coffee_picker/providers/origins_index.dart';
-import 'package:coffee_picker/providers/roasters_index.dart';
-import 'package:coffee_picker/providers/taste_notes.dart';
-import 'package:coffee_picker/repositories/coffee_images.dart';
-import 'package:coffee_picker/repositories/origins.dart';
-import 'package:coffee_picker/repositories/roasters.dart';
-import 'package:coffee_picker/repositories/taste_notes.dart';
+import 'package:coffee_review/components/image_box.dart';
+import 'package:coffee_review/components/scaffold.dart';
+import 'package:coffee_review/providers/coffees_index.dart';
+import 'package:coffee_review/providers/origins_index.dart';
+import 'package:coffee_review/providers/roasters_index.dart';
+import 'package:coffee_review/providers/taste_notes.dart';
+import 'package:coffee_review/repositories/coffee_images.dart';
+import 'package:coffee_review/repositories/origins.dart';
+import 'package:coffee_review/repositories/roasters.dart';
+import 'package:coffee_review/repositories/taste_notes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:textfield_tags/textfield_tags.dart';

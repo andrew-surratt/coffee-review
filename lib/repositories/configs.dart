@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:coffee_picker/providers/config.dart';
+import 'package:coffee_review/providers/config.dart';
 import 'package:flutter/foundation.dart';
 
 var configCollection = FirebaseFirestore.instance

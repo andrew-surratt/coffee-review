@@ -1,6 +1,6 @@
-import 'package:coffee_picker/components/login.dart';
-import 'package:coffee_picker/components/scaffold.dart';
-import 'package:coffee_picker/services/auth.dart';
+import 'package:coffee_review/components/login.dart';
+import 'package:coffee_review/components/scaffold.dart';
+import 'package:coffee_review/services/auth.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

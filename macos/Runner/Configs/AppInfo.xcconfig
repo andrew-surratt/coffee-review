@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = coffee_picker
+PRODUCT_NAME = coffee_review
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.alkalinedev.coffeePicker
+PRODUCT_BUNDLE_IDENTIFIER = com.alkalinedev.coffeeReview
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.alkalinedev. All rights reserved.

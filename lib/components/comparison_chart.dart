@@ -1,7 +1,7 @@
-import 'package:coffee_picker/components/scaffold.dart';
-import 'package:coffee_picker/providers/compare_coffees.dart';
-import 'package:coffee_picker/repositories/ratings.dart';
-import 'package:coffee_picker/services/finance.dart';
+import 'package:coffee_review/components/scaffold.dart';
+import 'package:coffee_review/providers/compare_coffees.dart';
+import 'package:coffee_review/repositories/ratings.dart';
+import 'package:coffee_review/services/finance.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';

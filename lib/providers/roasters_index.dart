@@ -1,4 +1,4 @@
-import 'package:coffee_picker/repositories/roasters.dart';
+import 'package:coffee_review/repositories/roasters.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

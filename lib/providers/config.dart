@@ -1,4 +1,4 @@
-import 'package:coffee_picker/repositories/configs.dart';
+import 'package:coffee_review/repositories/configs.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class ConfigNotifier extends StateNotifier<Config> {
@@ -10,7 +10,7 @@ final configProvider = FutureProvider.autoDispose((ref) async {
 });
 
 final defaultConfig = Config(
-    title: 'Coffee Picker',
+    title: 'Coffee Review',
     isComparisonChartEnabled: false,
     defaultRoasterQuery: 'Counter Culture',
     defaultChartCoffeeNames: [

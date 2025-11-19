@@ -1,4 +1,4 @@
-import 'package:coffee_picker/services/storage.dart';
+import 'package:coffee_review/services/storage.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 final iconsProvider = FutureProvider.autoDispose((ref) async {

@@ -1,4 +1,4 @@
-# Coffee Picker
+# Coffee Review
 
 Multi-platform app to help you choose your next brew
 

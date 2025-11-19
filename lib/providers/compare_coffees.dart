@@ -1,5 +1,5 @@
-import 'package:coffee_picker/repositories/coffees.dart';
-import 'package:coffee_picker/services/auth.dart';
+import 'package:coffee_review/repositories/coffees.dart';
+import 'package:coffee_review/services/auth.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

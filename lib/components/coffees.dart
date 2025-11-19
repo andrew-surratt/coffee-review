@@ -1,12 +1,12 @@
-import 'package:coffee_picker/components/coffee.dart';
-import 'package:coffee_picker/components/coffee_input.dart';
-import 'package:coffee_picker/components/scaffold.dart';
-import 'package:coffee_picker/components/thumbnail.dart';
-import 'package:coffee_picker/providers/coffees_index.dart';
-import 'package:coffee_picker/providers/config.dart';
-import 'package:coffee_picker/providers/roasters_index.dart';
-import 'package:coffee_picker/repositories/coffees.dart';
-import 'package:coffee_picker/repositories/configs.dart';
+import 'package:coffee_review/components/coffee.dart';
+import 'package:coffee_review/components/coffee_input.dart';
+import 'package:coffee_review/components/scaffold.dart';
+import 'package:coffee_review/components/thumbnail.dart';
+import 'package:coffee_review/providers/coffees_index.dart';
+import 'package:coffee_review/providers/config.dart';
+import 'package:coffee_review/providers/roasters_index.dart';
+import 'package:coffee_review/repositories/coffees.dart';
+import 'package:coffee_review/repositories/configs.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

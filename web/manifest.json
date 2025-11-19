@@ -1,6 +1,6 @@
 {
-    "name": "coffee_picker",
-    "short_name": "coffee_picker",
+    "name": "coffee_review",
+    "short_name": "coffee_review",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
