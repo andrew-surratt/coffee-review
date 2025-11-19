@@ -1,5 +1,5 @@
-import 'package:coffee_picker/components/coffees.dart';
-import 'package:coffee_picker/components/scaffold.dart';
+import 'package:coffee_review/components/coffees.dart';
+import 'package:coffee_review/components/scaffold.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

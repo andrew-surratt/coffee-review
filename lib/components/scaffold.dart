@@ -1,7 +1,7 @@
-import 'package:coffee_picker/components/coffees.dart';
-import 'package:coffee_picker/components/comparison_chart.dart';
-import 'package:coffee_picker/components/user_profile.dart';
-import 'package:coffee_picker/services/auth.dart';
+import 'package:coffee_review/components/coffees.dart';
+import 'package:coffee_review/components/comparison_chart.dart';
+import 'package:coffee_review/components/user_profile.dart';
+import 'package:coffee_review/services/auth.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
