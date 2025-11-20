@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.alkalinedev" "\0"
+            VALUE "CompanyName", "andrewsurratt" "\0"
             VALUE "FileDescription", "coffee_review" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "coffee_review" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.alkalinedev. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 andrewsurratt. All rights reserved." "\0"
             VALUE "OriginalFilename", "coffee_review.exe" "\0"
             VALUE "ProductName", "coffee_review" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
