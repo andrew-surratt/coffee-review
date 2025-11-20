@@ -8,7 +8,7 @@
 PRODUCT_NAME = coffee_review
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.alkalinedev.coffeeReview
+PRODUCT_BUNDLE_IDENTIFIER = com.andrewsurratt.coffeeReview
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.alkalinedev. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 andrewsurratt. All rights reserved.
